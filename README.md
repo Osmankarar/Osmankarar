@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osmankarar
 - 👀 I’m interested in Data Analytics and visualization
-- 🌱 I’m currently learning R, Python and SQL
+- 🌱 I’m currently learning Cloud & DevOps
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me OsmanKarar
 
