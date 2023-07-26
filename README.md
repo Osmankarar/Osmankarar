@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Osmankarar
-- 👀 I’m interested in Data Analytics and visualization
+- 👀 I’m interested in Data architecture and cloud computing
 - 🌱 I’m currently learning Cloud & DevOps
-- 💞️ I’m looking to collaborate on Data Analytics projects
+- 💞️ I’m looking to collaborate on Cloud & DevOps projects
 - 📫 How to reach me OsmanKarar
 
 <!---
